@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- Framework self-tests. They need no Appium server or device and run in CI. -->
+<suite name="Framework unit tests" parallel="classes" thread-count="4">
+    <test name="unit">
+        <packages>
+            <package name="io.github.wahajt.mobile.framework.*"/>
+        </packages>
+    </test>
+</suite>

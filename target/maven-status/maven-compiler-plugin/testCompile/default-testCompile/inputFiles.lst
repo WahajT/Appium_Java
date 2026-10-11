@@ -1,0 +1,10 @@
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/examples/pages/HomePage.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/examples/pages/LoginPage.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/examples/steps/AppSteps.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/examples/steps/LoginSteps.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/framework/UtilitiesTest.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/framework/config/ConfigurationDocsTest.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/framework/config/FrameworkConfigTest.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/framework/driver/CapabilitiesFactoryTest.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/framework/ui/GesturesTest.java
+/home/wahajt/Desktop/Appium_Java/src/test/java/io/github/wahajt/mobile/runners/CucumberTestRunner.java

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- End-to-end Cucumber scenarios. Requires a running Appium server and a device/emulator/simulator. -->
+<suite name="Mobile end-to-end tests">
+    <listeners>
+        <listener class-name="io.github.wahajt.mobile.framework.testng.RetryTransformer"/>
+    </listeners>
+    <test name="cucumber">
+        <classes>
+            <class name="io.github.wahajt.mobile.runners.CucumberTestRunner"/>
+        </classes>
+    </test>
+</suite>

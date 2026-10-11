@@ -1,0 +1,10 @@
+io/github/wahajt/mobile/framework/ui/GesturesTest.class
+io/github/wahajt/mobile/framework/config/FrameworkConfigTest.class
+io/github/wahajt/mobile/runners/CucumberTestRunner.class
+io/github/wahajt/mobile/examples/pages/LoginPage.class
+io/github/wahajt/mobile/examples/steps/AppSteps.class
+io/github/wahajt/mobile/framework/driver/CapabilitiesFactoryTest.class
+io/github/wahajt/mobile/framework/UtilitiesTest.class
+io/github/wahajt/mobile/examples/pages/HomePage.class
+io/github/wahajt/mobile/examples/steps/LoginSteps.class
+io/github/wahajt/mobile/framework/config/ConfigurationDocsTest.class
